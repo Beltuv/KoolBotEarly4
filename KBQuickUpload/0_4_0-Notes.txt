@@ -1,0 +1,19 @@
+MAKE THE CHART COMMAND BEFORE RELEASE
+
+0.4 Set RELEASE --- Febuary 19, 2019
+
+1. Update the koolbot.js when updating host
+2. Add the coin file
+3. Check images
+4. Make sure to upload music contents --No need to do that
+5. RPS
+
+Changed files --- {koolbot.js} {coin.js} {images.js}
+
+
+0.5 Ideas:
+-Improve RPS --make images a third arg and have a second arg displaying the bots choice. Example: !rps rock -c -i
+
+Full RELEASE:
+-Add multi message interaction ---- if possible
+-The Music Professor(Make Kool Bot only play in Penthouse)
