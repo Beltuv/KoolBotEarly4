@@ -1,1 +1,1 @@
-worker: node 
+worker: node KBQuickUpload/koolbot.js
